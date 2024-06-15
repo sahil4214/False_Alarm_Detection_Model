@@ -1,4 +1,6 @@
-# False_Alarm_Detection_Model
+# False_Alarm_Detection_Model 
+
+* After running the code in pycharm go to the postman and create link of your model to cennect with it  like : local server/model name : go to the row then select json and import json data 
 
 This Model Developed for chemical industry which has installed alarms on their different section part they installed alarms but problem is that some time some alarm if gas not leakaged but false alarm tune so they need to call management team that having more cost to company so it cot. me and tell me to develop proper false alarm detection model.
 
